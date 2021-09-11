@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\greenTEG\OneDrive - greenTEG AG\ConnectIQ-2021\Projects\CORE-DataField-Example\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="3" lineNum="25" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="3" lineNum="26" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="3" lineNum="27" pc="268435470" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="31" pc="268435489" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="32" pc="268435493" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="33" pc="268435539" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="34" pc="268435586" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="35" pc="268435643" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="36" pc="268435689" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="37" pc="268435736" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="38" pc="268435793" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="4" lineNum="39" pc="268435839" symbol="onSelect"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="5" lineNum="44" pc="268435872" symbol="onBack"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="5" lineNum="45" pc="268435876" symbol="onBack"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="5" lineNum="47" pc="268435904" symbol="onBack"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="5" lineNum="48" pc="268435917" symbol="onBack"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="5" lineNum="20" pc="268449667" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="58" pc="268435941" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="59" pc="268435945" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="61" pc="268435982" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="62" pc="268436007" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="71" pc="268436111" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="81" pc="268436216" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="7" lineNum="82" pc="268436241" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="92" pc="268436346" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="93" pc="268436350" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="94" pc="268436350" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="95" pc="268436369" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="97" pc="268436388" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="98" pc="268436416" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="99" pc="268436426" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="101" pc="268436444" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="102" pc="268436451" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="103" pc="268436480" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="105" pc="268436502" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="108" pc="268436525" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="109" pc="268436553" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="110" pc="268436563" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="112" pc="268436581" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="113" pc="268436588" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="114" pc="268436617" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="116" pc="268436639" symbol="onShow"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\AppSettingsView.mc" id="8" lineNum="54" pc="268449726" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="11" lineNum="65" pc="268436669" symbol="isValidCoreTemp"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="11" lineNum="68" pc="268436673" symbol="isValidCoreTemp"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="11" lineNum="55" pc="268449542" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="81" pc="268436689" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="85" pc="268436693" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="86" pc="268436703" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="88" pc="268436713" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="117" pc="268436934" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="91" pc="268436940" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="92" pc="268436957" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="95" pc="268436960" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="96" pc="268436976" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="99" pc="268436979" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="100" pc="268436995" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="103" pc="268436998" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="104" pc="268437014" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="107" pc="268437017" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="108" pc="268437033" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="13" lineNum="120" pc="268437039" symbol="parseCoreSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="14" lineNum="124" pc="268437043" symbol="twelveBitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="14" lineNum="125" pc="268437047" symbol="twelveBitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="14" lineNum="126" pc="268437064" symbol="twelveBitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="14" lineNum="129" pc="268437077" symbol="twelveBitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="15" lineNum="133" pc="268437081" symbol="sixteenbitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="15" lineNum="134" pc="268437085" symbol="sixteenbitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="15" lineNum="135" pc="268437096" symbol="sixteenbitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="15" lineNum="138" pc="268437109" symbol="sixteenbitToSigned"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="142" pc="268437113" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="146" pc="268437117" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="150" pc="268437127" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="151" pc="268437144" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="152" pc="268437160" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="153" pc="268437185" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="155" pc="268437201" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="160" pc="268437229" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="162" pc="268437252" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="164" pc="268437263" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="167" pc="268437273" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="168" pc="268437286" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="170" pc="268437297" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="176" pc="268437310" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="178" pc="268437333" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="180" pc="268437344" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="16" lineNum="183" pc="268437357" symbol="parseGeneralInfoPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="187" pc="268437361" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="191" pc="268437365" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="193" pc="268437390" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="194" pc="268437439" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="195" pc="268437456" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="197" pc="268437472" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="200" pc="268437494" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="201" pc="268437543" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="202" pc="268437560" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="204" pc="268437576" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="210" pc="268437598" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="211" pc="268437635" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="212" pc="268437646" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="214" pc="268437656" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="17" lineNum="217" pc="268437666" symbol="parseTemperaturePage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="18" lineNum="221" pc="268437677" symbol="parseBatteryPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="18" lineNum="233" pc="268437681" symbol="parseBatteryPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="18" lineNum="235" pc="268437710" symbol="parseBatteryPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="18" lineNum="236" pc="268437747" symbol="parseBatteryPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="19" lineNum="241" pc="268437767" symbol="parseManufactureId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="19" lineNum="244" pc="268437771" symbol="parseManufactureId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="19" lineNum="245" pc="268437787" symbol="parseManufactureId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="19" lineNum="246" pc="268437831" symbol="parseManufactureId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="19" lineNum="248" pc="268437875" symbol="parseManufactureId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="20" lineNum="255" pc="268437899" symbol="parseProductInfo"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="20" lineNum="258" pc="268437903" symbol="parseProductInfo"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="20" lineNum="259" pc="268437920" symbol="parseProductInfo"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="20" lineNum="261" pc="268437939" symbol="parseProductInfo"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="20" lineNum="264" pc="268437970" symbol="parseProductInfo"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="270" pc="268438038" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="273" pc="268438042" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="275" pc="268438055" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="277" pc="268438113" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="278" pc="268438126" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="282" pc="268438174" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="283" pc="268438199" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="284" pc="268438212" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="285" pc="268438224" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="288" pc="268438247" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="290" pc="268438247" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="299" pc="268438394" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="300" pc="268438401" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="303" pc="268438424" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="21" lineNum="304" pc="268438437" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="22" lineNum="309" pc="268438471" symbol="open"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="22" lineNum="312" pc="268438475" symbol="open"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="22" lineNum="314" pc="268438487" symbol="open"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="22" lineNum="315" pc="268438505" symbol="open"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="23" lineNum="319" pc="268438536" symbol="closeSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="23" lineNum="322" pc="268438540" symbol="closeSensor"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="24" lineNum="326" pc="268438559" symbol="sendAckMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="24" lineNum="329" pc="268438563" symbol="sendAckMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="24" lineNum="331" pc="268438577" symbol="sendAckMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="24" lineNum="334" pc="268438592" symbol="sendAckMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="24" lineNum="336" pc="268438606" symbol="sendAckMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="341" pc="268438622" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="344" pc="268438626" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="346" pc="268438645" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="347" pc="268438694" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="348" pc="268438702" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="350" pc="268438715" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="351" pc="268438731" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="352" pc="268438754" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="354" pc="268438777" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="355" pc="268438790" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="356" pc="268438803" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="357" pc="268438816" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="361" pc="268438829" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="363" pc="268438857" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="364" pc="268438864" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="365" pc="268438886" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="25" lineNum="366" pc="268438900" symbol="sendHeartRateToCore"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="372" pc="268438927" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="375" pc="268438931" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="377" pc="268438943" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="379" pc="268438951" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="380" pc="268438964" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="381" pc="268438977" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="382" pc="268438990" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="385" pc="268439003" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="386" pc="268439020" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="387" pc="268439038" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="391" pc="268439083" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="392" pc="268439111" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="393" pc="268439118" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="26" lineNum="394" pc="268439132" symbol="setCoreUTCtime"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="400" pc="268439159" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="403" pc="268439163" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="405" pc="268439175" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="407" pc="268439183" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="408" pc="268439196" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="409" pc="268439209" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="410" pc="268439222" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="411" pc="268439235" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="412" pc="268439248" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="414" pc="268439261" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="415" pc="268439271" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="418" pc="268439284" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="419" pc="268439312" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="420" pc="268439319" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="27" lineNum="421" pc="268439333" symbol="requestPage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="28" lineNum="427" pc="268439360" symbol="startSearch"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="28" lineNum="428" pc="268439364" symbol="startSearch"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="28" lineNum="429" pc="268439376" symbol="startSearch"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="29" lineNum="434" pc="268439393" symbol="stopSearch"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="29" lineNum="435" pc="268439397" symbol="stopSearch"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="439" pc="268439411" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="443" pc="268439415" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="444" pc="268439428" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="446" pc="268439451" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="447" pc="268439475" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="448" pc="268439486" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="450" pc="268439498" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="451" pc="268439515" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="455" pc="268439547" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="456" pc="268439571" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="457" pc="268439578" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="459" pc="268439610" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="460" pc="268439624" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="463" pc="268439649" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="464" pc="268439673" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="465" pc="268439703" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="467" pc="268439733" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="468" pc="268439748" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="469" pc="268439778" symbol="onMessage"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSensor.mc" id="30" lineNum="25" pc="268449522" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="28" pc="268439800" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="29" pc="268439804" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="30" pc="268439814" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="31" pc="268439878" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="33" pc="268439891" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="34" pc="268439934" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="35" pc="268439937" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="37" pc="268439950" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="38" pc="268439957" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="39" pc="268439967" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="40" pc="268439971" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="43" pc="268440046" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="32" lineNum="45" pc="268440156" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="33" lineNum="49" pc="268440237" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="33" lineNum="50" pc="268440241" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="33" lineNum="51" pc="268440277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="33" lineNum="52" pc="268440289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="34" lineNum="56" pc="268440310" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="34" lineNum="57" pc="268440314" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="34" lineNum="58" pc="268440330" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="35" lineNum="62" pc="268440357" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="35" lineNum="63" pc="268440361" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="35" lineNum="65" pc="268440414" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="35" lineNum="66" pc="268440440" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="35" lineNum="69" pc="268440487" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="36" lineNum="74" pc="268440514" symbol="loadTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="36" lineNum="75" pc="268440518" symbol="loadTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="36" lineNum="76" pc="268440561" symbol="loadTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="36" lineNum="78" pc="268440585" symbol="loadTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="37" lineNum="82" pc="268440607" symbol="getTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="37" lineNum="83" pc="268440611" symbol="getTitle"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="38" lineNum="87" pc="268440630" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="38" lineNum="88" pc="268440634" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="39" lineNum="92" pc="268440653" symbol="isDone"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="39" lineNum="93" pc="268440657" symbol="isDone"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="40" lineNum="97" pc="268440678" symbol="isDelete"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="40" lineNum="98" pc="268440682" symbol="isDelete"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="40" lineNum="22" pc="268449686" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="42" lineNum="106" pc="268440703" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="42" lineNum="107" pc="268440707" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="42" lineNum="108" pc="268440725" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="43" lineNum="111" pc="268440736" symbol="onCancel"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="43" lineNum="112" pc="268440740" symbol="onCancel"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="43" lineNum="113" pc="268440766" symbol="onCancel"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="43" lineNum="116" pc="268440797" symbol="onCancel"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="120" pc="268440816" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="121" pc="268440820" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="122" pc="268440848" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="124" pc="268440869" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="125" pc="268440897" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="126" pc="268440932" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="129" pc="268440979" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="131" pc="268441044" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="134" pc="268441075" symbol="onAccept"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\DeviceNumberPicker.mc" id="44" lineNum="103" pc="268449559" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="66" pc="268441102" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="70" pc="268441106" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="71" pc="268441128" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="74" pc="268441134" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="76" pc="268441142" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="77" pc="268441161" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="78" pc="268441177" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="79" pc="268441211" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="81" pc="268441224" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="82" pc="268441238" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="86" pc="268441251" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="87" pc="268441270" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="88" pc="268441286" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="89" pc="268441320" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="91" pc="268441333" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="92" pc="268441347" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="47" lineNum="96" pc="268441363" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="48" lineNum="100" pc="268441367" symbol="resetLapValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="48" lineNum="101" pc="268441371" symbol="resetLapValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="48" lineNum="102" pc="268441384" symbol="resetLapValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="48" lineNum="103" pc="268441397" symbol="resetLapValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="48" lineNum="104" pc="268441410" symbol="resetLapValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="49" lineNum="108" pc="268441424" symbol="resetSessionValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="49" lineNum="109" pc="268441428" symbol="resetSessionValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="49" lineNum="110" pc="268441441" symbol="resetSessionValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="49" lineNum="111" pc="268441454" symbol="resetSessionValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="49" lineNum="112" pc="268441467" symbol="resetSessionValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="116" pc="268441481" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="118" pc="268441485" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="119" pc="268441502" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="120" pc="268441555" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="121" pc="268441590" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="125" pc="268441628" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="126" pc="268441645" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="127" pc="268441698" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="50" lineNum="128" pc="268441733" symbol="writeLapSessionValues"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="52" lineNum="141" pc="268441775" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="52" lineNum="144" pc="268441779" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="52" lineNum="145" pc="268441812" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="52" lineNum="148" pc="268441818" symbol="writeValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="154" pc="268441825" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="156" pc="268441829" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="157" pc="268441836" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="158" pc="268441843" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="159" pc="268441850" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="160" pc="268441857" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="161" pc="268441864" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="162" pc="268441871" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="163" pc="268441878" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="164" pc="268441885" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="165" pc="268441892" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="166" pc="268441899" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="167" pc="268441906" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="168" pc="268441913" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="169" pc="268441920" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="170" pc="268441927" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="171" pc="268441934" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="172" pc="268441941" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="173" pc="268441948" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="175" pc="268441955" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="176" pc="268441962" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="177" pc="268441969" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="178" pc="268441976" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="179" pc="268441983" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="180" pc="268441990" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="181" pc="268441997" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="182" pc="268442004" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="183" pc="268442011" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="184" pc="268442018" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="185" pc="268442025" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="187" pc="268442032" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="188" pc="268442039" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="193" pc="268442046" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="195" pc="268442053" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="196" pc="268442066" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="197" pc="268442096" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="198" pc="268442109" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="200" pc="268442199" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="201" pc="268442289" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="202" pc="268442379" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="204" pc="268442469" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="205" pc="268442559" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="206" pc="268442649" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="208" pc="268442739" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="212" pc="268442819" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="214" pc="268442832" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="215" pc="268442862" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="216" pc="268442875" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="220" pc="268442958" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="222" pc="268442971" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="223" pc="268443001" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="224" pc="268443014" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="228" pc="268443097" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="230" pc="268443110" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="231" pc="268443140" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="232" pc="268443153" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="236" pc="268443236" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="238" pc="268443257" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="239" pc="268443287" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="240" pc="268443317" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="241" pc="268443346" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="53" lineNum="242" pc="268443436" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="249" pc="268443536" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="250" pc="268443540" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="251" pc="268443547" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="252" pc="268443573" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="256" pc="268443595" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="258" pc="268443611" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="261" pc="268443649" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="262" pc="268443681" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="264" pc="268443716" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="266" pc="268443727" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="269" pc="268443748" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="271" pc="268443777" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="272" pc="268443818" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="279" pc="268443868" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="281" pc="268443884" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="282" pc="268443932" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="287" pc="268443970" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="288" pc="268444002" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="290" pc="268444021" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="291" pc="268444069" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="296" pc="268444107" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="298" pc="268444123" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="299" pc="268444171" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="301" pc="268444212" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="54" lineNum="302" pc="268444263" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="308" pc="268444299" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="309" pc="268444303" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="311" pc="268444313" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="314" pc="268444347" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="316" pc="268444355" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="317" pc="268444371" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="319" pc="268444384" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="320" pc="268444407" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="322" pc="268444432" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="323" pc="268444460" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="324" pc="268444495" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="325" pc="268444530" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="327" pc="268444565" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="328" pc="268444593" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="330" pc="268444628" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="331" pc="268444650" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="332" pc="268444678" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="334" pc="268444713" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="335" pc="268444735" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="336" pc="268444763" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="55" lineNum="338" pc="268444798" symbol="setTimerRunning"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="56" lineNum="343" pc="268444822" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="56" lineNum="344" pc="268444826" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="56" lineNum="344" pc="268444839" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="57" lineNum="348" pc="268444861" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="57" lineNum="349" pc="268444865" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreFitContributions.mc" id="57" lineNum="349" pc="268444878" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="26" pc="268444900" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="29" pc="268444904" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="30" pc="268444908" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="32" pc="268444925" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="33" pc="268444942" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="35" pc="268444957" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="36" pc="268444964" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="60" lineNum="40" pc="268444974" symbol="getCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="61" lineNum="44" pc="268444978" symbol="setCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="61" lineNum="47" pc="268444982" symbol="setCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="61" lineNum="49" pc="268444999" symbol="setCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="61" lineNum="50" pc="268445016" symbol="setCoreProperty"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="62" lineNum="58" pc="268445036" symbol="getCoreAntId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="62" lineNum="59" pc="268445040" symbol="getCoreAntId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="63" lineNum="62" pc="268445066" symbol="setCoreAntId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="63" lineNum="63" pc="268445070" symbol="setCoreAntId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="64" lineNum="66" pc="268445093" symbol="getPairedHrmId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="64" lineNum="69" pc="268445097" symbol="getPairedHrmId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="65" lineNum="72" pc="268445123" symbol="setPairedHrmId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="65" lineNum="73" pc="268445127" symbol="setPairedHrmId"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="66" lineNum="76" pc="268445150" symbol="getFitBackCompatability"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="66" lineNum="77" pc="268445154" symbol="getFitBackCompatability"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="67" lineNum="80" pc="268445177" symbol="setFitBackCompatability"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreSettings.mc" id="67" lineNum="81" pc="268445181" symbol="setFitBackCompatability"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="58" pc="268445207" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="59" pc="268445211" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="60" pc="268445220" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="62" pc="268445229" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="65" pc="268445242" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="66" pc="268445252" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="68" pc="268445292" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="72" lineNum="69" pc="268445310" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="80" pc="268445321" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="81" pc="268445325" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="84" pc="268445325" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="87" pc="268445677" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="89" pc="268445789" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="90" pc="268445803" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="93" pc="268445842" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="94" pc="268445855" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="96" pc="268445874" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="104" pc="268445897" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="106" pc="268445922" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="109" pc="268445982" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="111" pc="268446013" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="112" pc="268446026" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="113" pc="268446039" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="115" pc="268446052" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="116" pc="268446071" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="118" pc="268446088" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="119" pc="268446102" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="122" pc="268446141" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="124" pc="268446170" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="125" pc="268446203" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="126" pc="268446232" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="128" pc="268446271" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="129" pc="268446294" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="131" pc="268446326" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="136" pc="268446365" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="139" pc="268446378" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="145" pc="268446427" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="146" pc="268446450" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="148" pc="268446483" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="155" pc="268446522" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="157" pc="268446556" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="159" pc="268446573" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="163" pc="268446601" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="164" pc="268446671" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="165" pc="268446710" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="166" pc="268446754" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="167" pc="268446777" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="169" pc="268446812" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="179" pc="268446847" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="180" pc="268446850" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="182" pc="268446872" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="183" pc="268446909" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="186" pc="268446919" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="199" pc="268447026" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="200" pc="268447057" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="188" pc="268447063" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="189" pc="268447129" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="194" pc="268447132" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="195" pc="268447192" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="207" pc="268447198" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="208" pc="268447211" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="73" lineNum="211" pc="268447240" symbol="compute"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="215" pc="268447244" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="216" pc="268447248" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="218" pc="268447248" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="219" pc="268447285" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="220" pc="268447301" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="222" pc="268447326" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="223" pc="268447342" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="74" lineNum="226" pc="268447382" symbol="getTemperatureValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="230" pc="268447386" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="233" pc="268447390" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="235" pc="268447390" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="236" pc="268447403" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="237" pc="268447413" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="238" pc="268447426" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="239" pc="268447439" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="240" pc="268447452" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="242" pc="268447465" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="244" pc="268447490" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="245" pc="268447527" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="247" pc="268447573" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="75" lineNum="250" pc="268447616" symbol="initFieldData"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="254" pc="268447620" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="258" pc="268447624" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="259" pc="268447637" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="261" pc="268447655" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="262" pc="268447663" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="263" pc="268447681" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="267" pc="268447696" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="268" pc="268447709" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="270" pc="268447709" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="272" pc="268447749" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="273" pc="268447776" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="274" pc="268447803" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="278" pc="268447827" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="279" pc="268447840" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="280" pc="268447852" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="281" pc="268447870" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="76" lineNum="282" pc="268447888" symbol="dataFieldReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="287" pc="268447926" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="290" pc="268447930" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="291" pc="268447944" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="292" pc="268447970" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="295" pc="268447979" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="77" lineNum="298" pc="268447995" symbol="datafieldFrozen"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="78" lineNum="305" pc="268447999" symbol="onNextMultisportLeg"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="78" lineNum="306" pc="268448003" symbol="onNextMultisportLeg"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="79" lineNum="309" pc="268448016" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="79" lineNum="310" pc="268448020" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="80" lineNum="313" pc="268448049" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="80" lineNum="314" pc="268448053" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="81" lineNum="317" pc="268448082" symbol="onTimerPause"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="81" lineNum="318" pc="268448086" symbol="onTimerPause"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="82" lineNum="321" pc="268448115" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="82" lineNum="322" pc="268448119" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="83" lineNum="325" pc="268448148" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="83" lineNum="326" pc="268448152" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="84" lineNum="329" pc="268448171" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="84" lineNum="330" pc="268448175" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="84" lineNum="331" pc="268448193" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="84" lineNum="34" pc="268449631" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="84" lineNum="44" pc="268449649" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="85" lineNum="340" pc="268448212" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="85" lineNum="341" pc="268448216" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="85" lineNum="342" pc="268448225" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="85" lineNum="344" pc="268448234" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="349" pc="268448253" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="350" pc="268448257" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="352" pc="268448257" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="353" pc="268448287" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="355" pc="268448315" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="356" pc="268448342" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="86" lineNum="357" pc="268448369" symbol="onStart"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="87" lineNum="362" pc="268448391" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="87" lineNum="363" pc="268448395" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="87" lineNum="364" pc="268448433" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="88" lineNum="367" pc="268448457" symbol="onStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="88" lineNum="368" pc="268448461" symbol="onStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="88" lineNum="369" pc="268448474" symbol="onStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="88" lineNum="372" pc="268448495" symbol="onStop"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="89" lineNum="375" pc="268448499" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="89" lineNum="378" pc="268448503" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="89" lineNum="379" pc="268448516" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="90" lineNum="383" pc="268448540" symbol="getSettingsView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="90" lineNum="384" pc="268448544" symbol="getSettingsView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="90" lineNum="386" pc="268448567" symbol="getSettingsView"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\CoreField.mc" id="90" lineNum="26" pc="268449611" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="92" lineNum="28" pc="268448646" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="92" lineNum="29" pc="268448650" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="92" lineNum="30" pc="268448668" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="92" lineNum="31" pc="268448678" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="92" lineNum="32" pc="268448715" symbol="initialize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="93" lineNum="36" pc="268448753" symbol="getIndex"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="93" lineNum="37" pc="268448757" symbol="getIndex"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="93" lineNum="38" pc="268448778" symbol="getIndex"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="94" lineNum="42" pc="268448782" symbol="getSize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="94" lineNum="43" pc="268448786" symbol="getSize"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="47" pc="268448855" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="48" pc="268448859" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="49" pc="268448896" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="51" pc="268448908" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="52" pc="268448931" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="95" lineNum="55" pc="268448943" symbol="getValue"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="59" pc="268448972" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="60" pc="268448976" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="61" pc="268449013" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="63" pc="268449157" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="64" pc="268449180" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="96" lineNum="67" pc="268449324" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="97" lineNum="71" pc="268449459" symbol="isDone"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="97" lineNum="72" pc="268449463" symbol="isDone"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="98" lineNum="76" pc="268449490" symbol="isDelete"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="98" lineNum="77" pc="268449494" symbol="isDelete"/>
+        <entry filename="C:\\Users\\greenTEG\\OneDrive - greenTEG AG\\ConnectIQ-2021\\Projects\\CORE-DataField-Example\\source\\settings\\CharacterFactory.mc" id="98" lineNum="21" pc="268449707" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="105" lineNum="1" pc="268449578" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="55" symbol="BATTERY_NOT_SET"/>
+        <entry field="true" id="175" symbol="KEY_ANT_ID"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="43" symbol="CORE_OEM_ID"/>
+        <entry field="true" id="161" symbol="DISP_SKIN_OPT"/>
+        <entry id="8389626" method="true" symbol="onAccept"/>
+        <entry field="true" id="8389246" symbol="transmissionType"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="158" symbol="DISP_APPEND"/>
+        <entry field="true" id="31" symbol="chanAssign"/>
+        <entry field="true" id="151" symbol="showOptionalDisplay"/>
+        <entry id="54" method="true" symbol="parseProductInfo"/>
+        <entry field="true" id="45" symbol="ACK_UTC_TIME"/>
+        <entry field="true" id="192" symbol="mDeviceNumber"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="165" symbol="mTitleText"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry field="true" id="30" symbol="sendHrmCnt"/>
+        <entry field="true" id="93" symbol="HRM_ID_prompt"/>
+        <entry field="true" id="68" symbol="manufactureID"/>
+        <entry field="true" id="64" symbol="coreReserved"/>
+        <entry field="true" id="150" symbol="lastTempChangeDispCount"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="99" symbol="fitFileCompatability_prompt"/>
+        <entry field="true" id="102" symbol="ANT_ID_title"/>
+        <entry field="true" id="67" symbol="hwVersion"/>
+        <entry field="true" id="156" symbol="DISP_NULL"/>
+        <entry field="true" id="131" symbol="sessionMaxValue"/>
+        <entry field="true" id="81" symbol="fit_hemoglobin_percentage_label"/>
+        <entry id="17" object="true" symbol="CoreFitContributor"/>
+        <entry id="71" method="true" symbol="isValidCoreTemp"/>
+        <entry field="true" id="23" symbol="PAGE_CORE_INFO"/>
+        <entry field="true" id="27" symbol="ANTid"/>
+        <entry id="8391211" method="true" symbol="onMessage"/>
+        <entry field="true" id="24" symbol="PAGE_CORE_TEMP"/>
+        <entry field="true" id="160" symbol="FAHRENHEIT_INDEX"/>
+        <entry field="true" id="122" symbol="lapAvgValue"/>
+        <entry field="true" id="166" symbol="mFactory"/>
+        <entry field="true" id="126" symbol="lapMinValue"/>
+        <entry id="8389748" method="true" symbol="onTimerStop"/>
+        <entry field="true" id="143" symbol="mCoreField"/>
+        <entry id="42" symbol="globals/CoreSensor"/>
+        <entry field="true" id="130" symbol="sessionAvgField"/>
+        <entry id="184" method="true" symbol="getFitBackCompatability"/>
+        <entry field="true" id="120" symbol="currValue"/>
+        <entry field="true" id="134" symbol="sessionMinField"/>
+        <entry id="117" object="true" symbol="coreFitFieldSimple"/>
+        <entry id="8389629" method="true" symbol="getValue"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="8389274" symbol="searchThreshold"/>
+        <entry field="true" id="103" symbol="fit_skin_temp_label"/>
+        <entry id="41" method="true" symbol="stopSearch"/>
+        <entry field="true" id="157" symbol="DISP_FORMAT"/>
+        <entry field="true" id="145" symbol="unitsIndex"/>
+        <entry field="true" id="70" symbol="deviceSerialNumber"/>
+        <entry field="true" id="76" symbol="msgLowBattery"/>
+        <entry field="true" id="21" symbol="DEVICE_TYPE"/>
+        <entry field="true" id="8389244" symbol="deviceNumber"/>
+        <entry id="182" method="true" symbol="getPairedHrmId"/>
+        <entry id="15" object="true" symbol="DeviceNumberPicker"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="159" symbol="CELCIUS_INDEX"/>
+        <entry field="true" id="61" symbol="CoreTemp"/>
+        <entry id="194" symbol="addDelete"/>
+        <entry field="true" id="85" symbol="AppName"/>
+        <entry field="true" id="8389807" symbol="data"/>
+        <entry field="true" id="189" symbol="DELETE"/>
+        <entry id="10" module="true" symbol="globals/CoreDataField/CoreField"/>
+        <entry field="true" id="66" symbol="usingHeartRate"/>
+        <entry id="8389749" method="true" symbol="onTimerPause"/>
+        <entry id="50" method="true" symbol="parseGeneralInfoPage"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="112" symbol="mSMO2"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="110" symbol="mCoreResv"/>
+        <entry id="35" method="true" symbol="closeSensor"/>
+        <entry id="36" method="true" symbol="sendAckMessage"/>
+        <entry field="true" id="59" symbol="VALID_CORE_TEMP"/>
+        <entry id="138" method="true" symbol="resetLapValue"/>
+        <entry field="true" id="78" symbol="ANT_ID_error_msg"/>
+        <entry field="true" id="115" symbol="mTimerRunning"/>
+        <entry field="true" id="84" symbol="fit_hemoglobin_concentration_units"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="148" symbol="lastValidCoreTemp"/>
+        <entry id="137" method="true" symbol="writeValue"/>
+        <entry field="true" id="80" symbol="fit_core_avg_label"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="69" symbol="hwModelNumber"/>
+        <entry field="true" id="167" symbol="mDeviceKey"/>
+        <entry field="true" id="8389245" symbol="deviceType"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="25" symbol="PAGE_BATTERY"/>
+        <entry id="141" object="true" symbol="CoreField"/>
+        <entry field="true" id="86" symbol="msgCalculating"/>
+        <entry id="155" method="true" symbol="datafieldFrozen"/>
+        <entry field="true" id="22" symbol="PERIOD"/>
+        <entry field="true" id="91" symbol="msgSearching"/>
+        <entry id="173" method="true" symbol="isDone"/>
+        <entry field="true" id="147" symbol="fitCompatability"/>
+        <entry field="true" id="95" symbol="fit_core_resv_units"/>
+        <entry id="40" method="true" symbol="startSearch"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389630" method="true" symbol="getSize"/>
+        <entry field="true" id="82" symbol="msgAlert"/>
+        <entry id="74" module="true" symbol="Menus"/>
+        <entry id="185" method="true" symbol="setFitBackCompatability"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8390389" object="true" symbol="Menu2"/>
+        <entry id="8389850" symbol="count"/>
+        <entry id="33" object="true" symbol="CoreData"/>
+        <entry id="47" method="true" symbol="parseCoreSensor"/>
+        <entry field="true" id="176" symbol="KEY_HRM_ID"/>
+        <entry field="true" id="129" symbol="sessionAvgValue"/>
+        <entry field="true" id="133" symbol="sessionMinValue"/>
+        <entry id="179" method="true" symbol="setCoreProperty"/>
+        <entry id="39" method="true" symbol="requestPage"/>
+        <entry field="true" id="163" symbol="mMenu"/>
+        <entry field="true" id="188" symbol="DONE"/>
+        <entry field="true" id="128" symbol="lapRecordCount"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="183" method="true" symbol="setPairedHrmId"/>
+        <entry id="53" method="true" symbol="parseManufactureId"/>
+        <entry id="8389936" symbol="nativeNum"/>
+        <entry id="38" method="true" symbol="setCoreUTCtime"/>
+        <entry id="19" object="true" symbol="CoreDataField"/>
+        <entry id="116" object="true" symbol="coreFitFieldFull"/>
+        <entry field="true" id="146" symbol="displayCount"/>
+        <entry id="8389644" symbol="defaults"/>
+        <entry field="true" id="28" symbol="searching"/>
+        <entry field="true" id="149" symbol="searchingFrozenCount"/>
+        <entry field="true" id="63" symbol="dataQuality"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389271" symbol="radioFrequency"/>
+        <entry field="true" id="187" symbol="mAddDelete"/>
+        <entry field="true" id="46" symbol="ACK_HEART_RATE"/>
+        <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="169" method="true" symbol="removeCharacter"/>
+        <entry id="193" symbol="addDone"/>
+        <entry field="true" id="83" symbol="fit_hemoglobin_concentration_label"/>
+        <entry field="true" id="79" symbol="fitFileCompatability_title"/>
+        <entry field="true" id="125" symbol="lapMaxField"/>
+        <entry field="true" id="114" symbol="mLastEvenCount"/>
+        <entry field="true" id="72" symbol="mPicker"/>
+        <entry id="48" method="true" symbol="twelveBitToSigned"/>
+        <entry id="8389752" method="true" symbol="onTimerReset"/>
+        <entry field="true" id="65" symbol="batteryState"/>
+        <entry field="true" id="92" symbol="msgLostSignal"/>
+        <entry id="8389628" method="true" symbol="getDrawable"/>
+        <entry field="true" id="62" symbol="SkinTemp"/>
+        <entry field="true" id="29" symbol="msgTimeStamp"/>
+        <entry field="true" id="32" symbol="SEND_HRM_TIMEOUT"/>
+        <entry field="true" id="98" symbol="fit_core_temp_units"/>
+        <entry id="118" method="true" symbol="setTimerRunning"/>
+        <entry field="true" id="107" symbol="mCoreTemp"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="51" method="true" symbol="parseTemperaturePage"/>
+        <entry field="true" id="111" symbol="mConnectIQinfoField"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="8389270" symbol="messagePeriod"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389256" method="true" symbol="open"/>
+        <entry field="true" id="44" symbol="ACK_NONE"/>
+        <entry field="true" id="94" symbol="fit_core_resv_label"/>
+        <entry field="true" id="191" symbol="mHrmIdNumber"/>
+        <entry field="true" id="8389676" symbol="firmwareVersion"/>
+        <entry id="37" method="true" symbol="sendHeartRateToCore"/>
+        <entry field="true" id="60" symbol="eventCount"/>
+        <entry field="true" id="100" symbol="HRM_ID_title"/>
+        <entry id="9" module="true" symbol="globals/CoreDataField"/>
+        <entry id="8390686" method="true" symbol="onNextMultisportLeg"/>
+        <entry field="true" id="90" symbol="Delete_Item"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="140" method="true" symbol="writeLapSessionValues"/>
+        <entry id="14" object="true" symbol="CoreSensor"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="144" symbol="mFitContributor"/>
+        <entry id="119" symbol="globals/CoreFitContributor"/>
+        <entry field="true" id="26" symbol="SENSOR_TIMEOUT"/>
+        <entry id="153" method="true" symbol="initFieldData"/>
+        <entry field="true" id="75" symbol="LauncherIcon"/>
+        <entry field="true" id="97" symbol="fit_core_min_label"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="180" method="true" symbol="getCoreAntId"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="105" symbol="fit_core_qual_units"/>
+        <entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry field="true" id="162" symbol="DISP_RESV_OPT"/>
+        <entry field="true" id="108" symbol="mSkinTemp"/>
+        <entry field="true" id="109" symbol="mCoreQual"/>
+        <entry field="true" id="186" symbol="mAddDone"/>
+        <entry field="true" id="136" symbol="graphField"/>
+        <entry id="152" method="true" symbol="getTemperatureValue"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="13" object="true" symbol="AppSettingsView"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="89" symbol="ANT_ID_prompt"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="172" method="true" symbol="getTitleLength"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry id="52" method="true" symbol="parseBatteryPage"/>
+        <entry id="18" object="true" symbol="CoreSettings"/>
+        <entry field="true" id="57" symbol="BATTERY_LOW"/>
+        <entry id="8389541" method="true" symbol="onCancel"/>
+        <entry field="true" id="135" symbol="sessionRecordCount"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry id="178" method="true" symbol="getCoreProperty"/>
+        <entry field="true" id="124" symbol="lapMaxValue"/>
+        <entry id="8389751" method="true" symbol="onTimerLap"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="154" method="true" symbol="dataFieldReset"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="11" module="true" symbol="globals/CoreSettings"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="132" symbol="sessionMaxField"/>
+        <entry id="20" object="true" symbol="CharacterFactory"/>
+        <entry field="true" id="104" symbol="fit_core_temp_label"/>
+        <entry id="34" object="true" symbol="CoreDataPage"/>
+        <entry field="true" id="56" symbol="BATTERY_OK"/>
+        <entry field="true" id="96" symbol="fit_hemoglobin_percentage_units"/>
+        <entry id="190" method="true" symbol="getIndex"/>
+        <entry field="true" id="106" symbol="fit_core_max_label"/>
+        <entry id="171" method="true" symbol="getTitle"/>
+        <entry field="true" id="113" symbol="mTHB"/>
+        <entry field="true" id="123" symbol="lapAvgField"/>
+        <entry id="168" method="true" symbol="addCharacter"/>
+        <entry id="73" module="true" symbol="Layouts"/>
+        <entry field="true" id="127" symbol="lapMinField"/>
+        <entry field="true" id="88" symbol="msgShakeCore"/>
+        <entry field="true" id="87" symbol="CORE_ANT_FieldAppUrl"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="139" method="true" symbol="resetSessionValue"/>
+        <entry id="8389643" symbol="pattern"/>
+        <entry id="170" method="true" symbol="loadTitle"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry id="49" method="true" symbol="sixteenbitToSigned"/>
+        <entry field="true" id="121" symbol="currField"/>
+        <entry field="true" id="142" symbol="mSensor"/>
+        <entry id="16" object="true" symbol="DeviceNumberPickerDelegate"/>
+        <entry id="12" object="true" symbol="AppSettingsDelegate"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="164" symbol="mCharacterSet"/>
+        <entry field="true" id="101" symbol="fit_core_qual_label"/>
+        <entry field="true" id="58" symbol="BATTERY_CRITICAL"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="174" method="true" symbol="isDelete"/>
+        <entry id="181" method="true" symbol="setCoreAntId"/>
+        <entry field="true" id="177" symbol="KEY_FIT_COMPATABILITY"/>
+        <entry field="true" id="77" symbol="Done_Item"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435488" name="coreField" stackId="1" startPc="268435456"/>
+        <entry endPc="268435639" name="deviceCORENumberPicker" stackId="2" startPc="268435539"/>
+        <entry endPc="268435789" name="deviceHRMNumberPicker" stackId="3" startPc="268435689"/>
+        <entry arg="true" endPc="268435871" name="item" stackId="1" startPc="268435489"/>
+        <entry endPc="268436667" name="deviceNumber" stackId="3" startPc="268436350"/>
+        <entry endPc="268436667" name="item" stackId="1" startPc="268436350"/>
+        <entry endPc="268436667" name="hrmIdNumber" stackId="2" startPc="268436350"/>
+        <entry arg="true" endPc="268436685" name="temperature" stackId="1" startPc="268436669"/>
+        <entry endPc="268437041" name="dataPage" stackId="4" startPc="268436693"/>
+        <entry endPc="268437041" name="ackRequest" stackId="3" startPc="268436693"/>
+        <entry arg="true" endPc="268437042" name="data" stackId="2" startPc="268436689"/>
+        <entry arg="true" endPc="268437042" name="payload" stackId="1" startPc="268436689"/>
+        <entry arg="true" endPc="268437080" name="value" stackId="1" startPc="268437043"/>
+        <entry arg="true" endPc="268437112" name="value" stackId="1" startPc="268437081"/>
+        <entry endPc="268437359" name="utcRequest" stackId="5" startPc="268437117"/>
+        <entry endPc="268437359" name="heartRateSupport" stackId="4" startPc="268437117"/>
+        <entry endPc="268437359" name="ackRequest" stackId="3" startPc="268437117"/>
+        <entry arg="true" endPc="268437360" name="data" stackId="2" startPc="268437113"/>
+        <entry arg="true" endPc="268437360" name="payload" stackId="1" startPc="268437113"/>
+        <entry endPc="268437675" name="newTemperature" stackId="3" startPc="268437365"/>
+        <entry arg="true" endPc="268437676" name="data" stackId="2" startPc="268437361"/>
+        <entry arg="true" endPc="268437676" name="payload" stackId="1" startPc="268437361"/>
+        <entry arg="true" endPc="268437766" name="data" stackId="2" startPc="268437677"/>
+        <entry arg="true" endPc="268437766" name="payload" stackId="1" startPc="268437677"/>
+        <entry arg="true" endPc="268437898" name="data" stackId="2" startPc="268437767"/>
+        <entry arg="true" endPc="268437898" name="payload" stackId="1" startPc="268437767"/>
+        <entry arg="true" endPc="268438034" name="data" stackId="2" startPc="268437899"/>
+        <entry arg="true" endPc="268438034" name="payload" stackId="1" startPc="268437899"/>
+        <entry endPc="268438469" name="deviceCfg" stackId="1" startPc="268438042"/>
+        <entry arg="true" endPc="268438621" name="dataPage" stackId="2" startPc="268438559"/>
+        <entry arg="true" endPc="268438621" name="ackRequest" stackId="1" startPc="268438559"/>
+        <entry endPc="268438922" name="message" stackId="3" startPc="268438694"/>
+        <entry endPc="268438922" name="payload" stackId="2" startPc="268438694"/>
+        <entry endPc="268438925" name="hrmID" stackId="1" startPc="268438626"/>
+        <entry endPc="268439082" name="i" stackId="3" startPc="268439038"/>
+        <entry endPc="268439154" name="message" stackId="4" startPc="268438943"/>
+        <entry endPc="268439154" name="moment" stackId="2" startPc="268438943"/>
+        <entry endPc="268439154" name="payload" stackId="1" startPc="268438943"/>
+        <entry endPc="268439355" name="message" stackId="3" startPc="268439175"/>
+        <entry endPc="268439355" name="payload" stackId="2" startPc="268439175"/>
+        <entry arg="true" endPc="268439359" name="pageNum" stackId="1" startPc="268439159"/>
+        <entry endPc="268439642" name="ackRequest" stackId="4" startPc="268439578"/>
+        <entry endPc="268439645" name="dp" stackId="3" startPc="268439475"/>
+        <entry endPc="268439798" name="payload" stackId="2" startPc="268439415"/>
+        <entry arg="true" endPc="268439799" name="msg" stackId="1" startPc="268439411"/>
+        <entry endPc="268440235" name="titleText" stackId="4" startPc="268439804"/>
+        <entry endPc="268440235" name="string" stackId="2" startPc="268439804"/>
+        <entry endPc="268440235" name="defaults" stackId="3" startPc="268439804"/>
+        <entry arg="true" endPc="268440236" name="deviceKey" stackId="1" startPc="268439800"/>
+        <entry arg="true" endPc="268440309" name="dc" stackId="1" startPc="268440237"/>
+        <entry arg="true" endPc="268440356" name="character" stackId="1" startPc="268440310"/>
+        <entry arg="true" endPc="268440677" name="value" stackId="1" startPc="268440653"/>
+        <entry arg="true" endPc="268440702" name="value" stackId="1" startPc="268440678"/>
+        <entry arg="true" endPc="268440735" name="picker" stackId="1" startPc="268440703"/>
+        <entry arg="true" endPc="268441101" name="values" stackId="1" startPc="268440816"/>
+        <entry arg="true" endPc="268441366" name="allowZeroValue" stackId="3" startPc="268441102"/>
+        <entry arg="true" endPc="268441366" name="TimerRunning" stackId="2" startPc="268441102"/>
+        <entry arg="true" endPc="268441366" name="fitValue" stackId="1" startPc="268441102"/>
+        <entry arg="true" endPc="268441821" name="allowZeroValue" stackId="3" startPc="268441775"/>
+        <entry arg="true" endPc="268441821" name="TimerRunning" stackId="2" startPc="268441775"/>
+        <entry arg="true" endPc="268441821" name="fitValue" stackId="1" startPc="268441775"/>
+        <entry endPc="268443534" name="CURR_CORE_TEMP_FIELD_ID" stackId="21" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_SKINTEMP" stackId="11" startPc="268441829"/>
+        <entry endPc="268443534" name="CURR_RESERVED_FIELD_ID" stackId="30" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_SMO2_CONC_UNITS" stackId="15" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_AVG_CORETEMP" stackId="5" startPc="268441829"/>
+        <entry endPc="268443534" name="AVG_CORE_TEMP_FIELD_ID" stackId="25" startPc="268441829"/>
+        <entry endPc="268443534" name="LAP_AVG_CORE_TEMP_FIELD_ID" stackId="22" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_MAX_CORETEMP" stackId="6" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_COREQUAL_UNITS" stackId="10" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_C_TEMP_UNITS" stackId="8" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_CORE_GRAPH" stackId="18" startPc="268441829"/>
+        <entry endPc="268443534" name="CURR_SKIN_TEMP_FIELD_ID" stackId="28" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_RESERVED" stackId="12" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_COREQUAL" stackId="9" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_SKIN_GRAPH" stackId="19" startPc="268441829"/>
+        <entry endPc="268443534" name="CURR_HEMO_CONC_FIELD_ID" stackId="32" startPc="268441829"/>
+        <entry endPc="268443534" name="MAX_CORE_TEMP_FIELD_ID" stackId="26" startPc="268441829"/>
+        <entry endPc="268443534" name="CURR_COREQUAL_FIELD_ID" stackId="29" startPc="268441829"/>
+        <entry endPc="268443534" name="CURR_HEMO_PERCENT_FIELD_ID" stackId="33" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_GRAPHTEMP_UNITS" stackId="20" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_RESERVED_UNITS" stackId="13" startPc="268441829"/>
+        <entry endPc="268443534" name="MIN_CORE_TEMP_FIELD_ID" stackId="27" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_MIN_CORETEMP" stackId="7" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_SMO2_PERC" stackId="16" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_SMO2_PERC_UNITS" stackId="17" startPc="268441829"/>
+        <entry endPc="268443534" name="LAP_MIN_CORE_TEMP_FIELD_ID" stackId="24" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_CIQ_INFO" stackId="3" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_SMO2_CONC" stackId="14" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_CONNECTIQ_INFO_ID" stackId="31" startPc="268441829"/>
+        <entry endPc="268443534" name="LAP_MAX_CORE_TEMP_FIELD_ID" stackId="23" startPc="268441829"/>
+        <entry endPc="268443534" name="FIT_HEADING_CORETEMP" stackId="4" startPc="268441829"/>
+        <entry arg="true" endPc="268443535" name="fitCompatability" stackId="2" startPc="268441825"/>
+        <entry arg="true" endPc="268443535" name="dataField" stackId="1" startPc="268441825"/>
+        <entry endPc="268444208" name="coreResv" stackId="6" startPc="268443573"/>
+        <entry endPc="268444208" name="CoreTemp" stackId="2" startPc="268443573"/>
+        <entry endPc="268444208" name="coreQual" stackId="5" startPc="268443573"/>
+        <entry endPc="268444208" name="SkinTemp" stackId="3" startPc="268443573"/>
+        <entry endPc="268444208" name="coreSportAlgorithm" stackId="4" startPc="268443573"/>
+        <entry arg="true" endPc="268444298" name="sensor" stackId="1" startPc="268443536"/>
+        <entry endPc="268444817" name="deviceConnectIQinfo" stackId="3" startPc="268444347"/>
+        <entry arg="true" endPc="268444821" name="state" stackId="1" startPc="268444299"/>
+        <entry arg="true" endPc="268444821" name="sensor" stackId="2" startPc="268444299"/>
+        <entry endPc="268444976" name="result" stackId="3" startPc="268444904"/>
+        <entry endPc="268444976" name="app" stackId="4" startPc="268444904"/>
+        <entry arg="true" endPc="268444977" name="defaultValue" stackId="2" startPc="268444900"/>
+        <entry arg="true" endPc="268444977" name="key" stackId="1" startPc="268444900"/>
+        <entry endPc="268445034" name="app" stackId="3" startPc="268444982"/>
+        <entry arg="true" endPc="268445035" name="key" stackId="1" startPc="268444978"/>
+        <entry arg="true" endPc="268445035" name="value" stackId="2" startPc="268444978"/>
+        <entry arg="true" endPc="268445092" name="value" stackId="1" startPc="268445066"/>
+        <entry arg="true" endPc="268445149" name="value" stackId="1" startPc="268445123"/>
+        <entry arg="true" endPc="268445203" name="value" stackId="1" startPc="268445177"/>
+        <entry endPc="268445319" name="dataFieldLabel" stackId="2" startPc="268445211"/>
+        <entry arg="true" endPc="268445320" name="sensor" stackId="1" startPc="268445207"/>
+        <entry endPc="268447242" name="dispCoreField" stackId="4" startPc="268445325"/>
+        <entry endPc="268447242" name="dataQuality" stackId="5" startPc="268445325"/>
+        <entry endPc="268447242" name="dataQualFormat" stackId="3" startPc="268445325"/>
+        <entry endPc="268447242" name="CalcTemp" stackId="2" startPc="268445325"/>
+        <entry arg="true" endPc="268447243" name="info" stackId="1" startPc="268445321"/>
+        <entry endPc="268447384" name="tempValue" stackId="1" startPc="268447248"/>
+        <entry endPc="268447618" name="dataFieldLabel" stackId="1" startPc="268447390"/>
+        <entry arg="true" endPc="268447925" name="hardReset" stackId="1" startPc="268447620"/>
+        <entry arg="true" endPc="268447998" name="currCoreTemp" stackId="1" startPc="268447926"/>
+        <entry arg="true" endPc="268448390" name="state" stackId="1" startPc="268448253"/>
+        <entry arg="true" endPc="268448498" name="state" stackId="1" startPc="268448457"/>
+        <entry arg="true" endPc="268448752" name="characterSet" stackId="1" startPc="268448646"/>
+        <entry arg="true" endPc="268448752" name="options" stackId="2" startPc="268448646"/>
+        <entry endPc="268448780" name="index" stackId="2" startPc="268448757"/>
+        <entry arg="true" endPc="268448781" name="value" stackId="1" startPc="268448753"/>
+        <entry arg="true" endPc="268448971" name="index" stackId="1" startPc="268448855"/>
+        <entry arg="true" endPc="268449458" name="index" stackId="1" startPc="268448972"/>
+        <entry arg="true" endPc="268449458" name="selected" stackId="2" startPc="268448972"/>
+        <entry arg="true" endPc="268449489" name="value" stackId="1" startPc="268449459"/>
+        <entry arg="true" endPc="268449520" name="value" stackId="1" startPc="268449490"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgLowBattery"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Done_Item"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ANT_ID_error_msg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fitFileCompatability_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_avg_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_hemoglobin_percentage_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgAlert"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_hemoglobin_concentration_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_hemoglobin_concentration_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgCalculating"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="CORE_ANT_FieldAppUrl"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgShakeCore"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ANT_ID_prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Delete_Item"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgSearching"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="msgLostSignal"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HRM_ID_prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_resv_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_resv_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_hemoglobin_percentage_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_min_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_temp_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fitFileCompatability_prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HRM_ID_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_qual_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ANT_ID_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_skin_temp_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_temp_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_qual_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="fit_core_max_label"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="111" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/CoreSensor" offset="230" parentId="globals" symbolId="CoreSensor" type="class"/>
+        <dataEntry label="globals/CoreSensor/CoreDataPage" offset="485" parentId="CoreSensor" symbolId="CoreDataPage" type="class"/>
+        <dataEntry label="globals/CoreSensor/CoreData" offset="628" parentId="CoreSensor" symbolId="CoreData" type="class"/>
+        <dataEntry label="globals/DeviceNumberPickerDelegate" offset="819" parentId="globals" symbolId="DeviceNumberPickerDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="890" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="969" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1008" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1039" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1070" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1101" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1132" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/CoreFitContributor" offset="1411" parentId="globals" symbolId="CoreFitContributor" type="class"/>
+        <dataEntry label="globals/CoreFitContributor/coreFitFieldFull" offset="1594" parentId="CoreFitContributor" symbolId="coreFitFieldFull" type="class"/>
+        <dataEntry label="globals/CoreFitContributor/coreFitFieldSimple" offset="1809" parentId="CoreFitContributor" symbolId="coreFitFieldSimple" type="class"/>
+        <dataEntry label="globals/CoreDataField" offset="1888" parentId="globals" symbolId="CoreDataField" type="class"/>
+        <dataEntry label="globals/CoreDataField/statics" offset="1991" parentId="globals" symbolId="globals/CoreDataField" type="class"/>
+        <dataEntry label="globals/CoreDataField/CoreField" offset="2038" parentId="CoreDataField" symbolId="CoreField" type="class"/>
+        <dataEntry label="globals/CoreDataField/CoreField/statics" offset="2245" parentId="CoreDataField" symbolId="globals/CoreDataField/CoreField" type="class"/>
+        <dataEntry label="globals/AppSettingsDelegate" offset="2332" parentId="globals" symbolId="AppSettingsDelegate" type="class"/>
+        <dataEntry label="globals/DeviceNumberPicker" offset="2411" parentId="globals" symbolId="DeviceNumberPicker" type="class"/>
+        <dataEntry label="globals/CoreSettings" offset="2554" parentId="globals" symbolId="CoreSettings" type="class"/>
+        <dataEntry label="globals/CoreSettings/statics" offset="2601" parentId="globals" symbolId="globals/CoreSettings" type="class"/>
+        <dataEntry label="globals/CharacterFactory" offset="2720" parentId="globals" symbolId="CharacterFactory" type="class"/>
+        <dataEntry label="globals/AppSettingsView" offset="2855" parentId="globals" symbolId="AppSettingsView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AppSettingsDelegate">
+            <param id="coreField"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AppSettingsDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="AppSettingsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AppSettingsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AppSettingsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isValidCoreTemp" parent="CoreData">
+            <param id="temperature"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseCoreSensor" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="twelveBitToSigned" parent="CoreDataPage">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sixteenbitToSigned" parent="CoreDataPage">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseGeneralInfoPage" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseTemperaturePage" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseBatteryPage" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseManufactureId" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parseProductInfo" parent="CoreDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="open" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="closeSensor" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sendAckMessage" parent="CoreSensor">
+            <param id="ackRequest"/>
+            <param id="dataPage"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sendHeartRateToCore" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setCoreUTCtime" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="requestPage" parent="CoreSensor">
+            <param id="pageNum"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startSearch" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="stopSearch" parent="CoreSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMessage" parent="CoreSensor">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceNumberPicker">
+            <param id="deviceKey"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DeviceNumberPicker">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addCharacter" parent="DeviceNumberPicker">
+            <param id="character"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="removeCharacter" parent="DeviceNumberPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadTitle" parent="DeviceNumberPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitle" parent="DeviceNumberPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitleLength" parent="DeviceNumberPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDone" parent="DeviceNumberPicker">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDelete" parent="DeviceNumberPicker">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceNumberPickerDelegate">
+            <param id="picker"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCancel" parent="DeviceNumberPickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAccept" parent="DeviceNumberPickerDelegate">
+            <param id="values"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="writeValue" parent="coreFitFieldFull">
+            <param id="fitValue"/>
+            <param id="TimerRunning"/>
+            <param id="allowZeroValue"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resetLapValue" parent="coreFitFieldFull">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resetSessionValue" parent="coreFitFieldFull">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="writeLapSessionValues" parent="coreFitFieldFull">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="writeValue" parent="coreFitFieldSimple">
+            <param id="fitValue"/>
+            <param id="TimerRunning"/>
+            <param id="allowZeroValue"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CoreFitContributor">
+            <param id="dataField"/>
+            <param id="fitCompatability"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="CoreFitContributor">
+            <param id="sensor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTimerRunning" parent="CoreFitContributor">
+            <param id="state"/>
+            <param id="sensor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerLap" parent="CoreFitContributor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerReset" parent="CoreFitContributor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCoreProperty" parent="CoreSettings">
+            <param id="key"/>
+            <param id="defaultValue"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setCoreProperty" parent="CoreSettings">
+            <param id="key"/>
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCoreAntId" parent="CoreSettings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setCoreAntId" parent="CoreSettings">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getPairedHrmId" parent="CoreSettings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setPairedHrmId" parent="CoreSettings">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFitBackCompatability" parent="CoreSettings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setFitBackCompatability" parent="CoreSettings">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CoreField">
+            <param id="sensor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="CoreField">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTemperatureValue" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initFieldData" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="dataFieldReset" parent="CoreField">
+            <param id="hardReset"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="datafieldFrozen" parent="CoreField">
+            <param id="currCoreTemp"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextMultisportLeg" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerStart" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerStop" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerPause" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerResume" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerLap" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerReset" parent="CoreField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CoreDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="CoreDataField">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="CoreDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="CoreDataField">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="CoreDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSettingsView" parent="CoreDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CharacterFactory">
+            <param id="characterSet"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getIndex" parent="CharacterFactory">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSize" parent="CharacterFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getValue" parent="CharacterFactory">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDrawable" parent="CharacterFactory">
+            <param id="index"/>
+            <param id="selected"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDone" parent="CharacterFactory">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDelete" parent="CharacterFactory">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

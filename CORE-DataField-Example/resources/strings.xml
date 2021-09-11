@@ -1,0 +1,33 @@
+<strings>
+	<string id="AppName">CORE</string>
+	<string id="msgAlert">Alert!</string>
+	<string id="msgCalculating">Calculating</string>
+	<string id="msgSearching">Searching...</string>
+	<string id="msgShakeCore">Shake CORE</string>
+	<string id="msgLostSignal">Lost Signal</string>
+	<string id="msgLowBattery">Low Battery</string>
+	<string id="ANT_ID_title">CORE Sensor Id:</string>
+	<string id="ANT_ID_prompt">Enter ANT+ id between 1 and 65535, 0 = use any CORE</string>
+	<string id="CORE_ANT_FieldAppUrl">https://corebodytemp.com/coreconnectiqmanual/</string>
+	<string id="ANT_ID_error_msg">only numbers between 0 and 65535</string>
+	<string id="fitFileCompatability_title">Backward compatible FIT file:</string>
+	<string id="fitFileCompatability_prompt">Record additional backward compatible FIT MOXY fields</string>
+	<string id="HRM_ID_title">Heart Rate Sensor Id:</string>
+	<string id="HRM_ID_prompt">Enter ANT+ id between 1 and 1048575, 0 = ignore</string>
+	<string id="Done_Item">Done</string>
+	<string id="Delete_Item">Delete</string>
+	<string id="fit_core_temp_label">CORE Temperature</string>
+	<string id="fit_core_avg_label">CORE Avg Temp</string>
+	<string id="fit_core_min_label">CORE Min Temp</string>
+	<string id="fit_core_max_label">CORE Max Temp</string>
+	<string id="fit_skin_temp_label">Skin Temperature</string>
+	<string id="fit_core_qual_label">CORE DataQuality</string>
+	<string id="fit_core_resv_label">CoreReserved</string>
+	<string id="fit_core_temp_units"><![CDATA[°C]]></string>
+	<string id="fit_core_qual_units">Q</string>
+	<string id="fit_core_resv_units">kcal</string>
+    <string id="fit_hemoglobin_concentration_label">Hemoglobin Concentration</string>
+    <string id="fit_hemoglobin_concentration_units">g/dl</string>
+    <string id="fit_hemoglobin_percentage_label">Hemoglobin Percentage</string>
+    <string id="fit_hemoglobin_percentage_units">%</string>	
+</strings>

@@ -1,0 +1,132 @@
+<resources>
+	<fitContributions>
+		<fitField id="0" 
+			sortOrder="81" precision="2" 
+			displayInChart="true" 
+			displayInActivityLaps="true" 
+			displayInActivitySummary="true"
+			chartTitle="@Strings.fit_core_temp_label"
+			unitLabel="@Strings.fit_core_temp_units"
+			dataLabel="@Strings.fit_core_temp_label"
+			fillColor="#00FF00" />
+
+		<fitField id="1" 
+			sortOrder="57" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="true"
+			displayInActivitySummary="false"
+			dataLabel="@Strings.fit_core_avg_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+
+		<fitField id="2" 
+			sortOrder="58" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="true"
+			displayInActivitySummary="false"
+			dataLabel="@Strings.fit_core_max_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+
+		<fitField id="3" 
+			sortOrder="59" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="true"
+			displayInActivitySummary="false"
+			dataLabel="@Strings.fit_core_min_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+
+		<fitField id="5" 
+			sortOrder="54" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="false"
+			displayInActivitySummary="true"
+			dataLabel="@Strings.fit_core_avg_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+			
+		<fitField id="6" 
+			sortOrder="55" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="false"
+			displayInActivitySummary="true"
+			dataLabel="@Strings.fit_core_max_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+			
+		<fitField id="7" 
+			sortOrder="56" precision="2" 
+			displayInChart="false" 
+			displayInActivityLaps="false"
+			displayInActivitySummary="true"
+			dataLabel="@Strings.fit_core_min_label"
+			unitLabel="@Strings.fit_core_temp_units" />
+			
+		<fitField id="10"
+			sortOrder="82" precision="2"
+			displayInChart="true" 
+			displayInActivityLaps="false"
+			displayInActivitySummary="false"
+			chartTitle="@Strings.fit_skin_temp_label"
+			unitLabel="@Strings.fit_core_temp_units"
+			dataLabel="@Strings.fit_skin_temp_label"
+			fillColor="#0099FF" />
+		
+		<fitField id="19" 
+			sortOrder="35" precision="0" 
+        	displayInChart="false"
+			displayInActivityLaps="false"
+			displayInActivitySummary="false"
+			unitLabel="@Strings.fit_core_qual_units"
+			dataLabel="@Strings.fit_core_qual_label" />
+			
+		<fitField id="20" 
+			sortOrder="30" precision="0" 
+        	displayInChart="false"
+			displayInActivityLaps="false"
+			displayInActivitySummary="false"
+			unitLabel="@Strings.fit_core_resv_units"
+			dataLabel="@Strings.fit_core_resv_label" />
+			
+        <fitField id="30" 
+        	sortOrder="22" precision="2"
+        	displayInChart="false" 
+			displayInActivityLaps="false"
+			displayInActivitySummary="false"
+        	dataLabel="@Strings.fit_hemoglobin_concentration_label" 
+	        unitLabel="@Strings.fit_hemoglobin_concentration_units" />
+
+        <fitField id="31" 
+        	sortOrder = "21" precision="2"
+        	displayInChart="false"
+			displayInActivityLaps="false"
+			displayInActivitySummary="false"
+	        dataLabel="@Strings.fit_hemoglobin_percentage_label"
+    	    unitLabel="@Strings.fit_hemoglobin_percentage_units" />
+
+	</fitContributions>
+	
+	<settings>
+		<setting propertyKey="@Properties.ANT_ID" title="@Strings.ANT_ID_title" prompt="@Strings.ANT_ID_prompt" helpUrl="https://corebodytemp.com/coreconnectiqmanual/">
+			<settingConfig type="numeric" readonly="false" 
+				required="false" min="0" max="65535" errorMessage="@Strings.ANT_ID_error_msg"  />
+		</setting>
+		
+		<setting propertyKey="@Properties.fitFileCompatability" 
+			title="@Strings.fitFileCompatability_title" prompt="@Strings.fitFileCompatability_prompt" 
+			helpUrl="https://corebodytemp.com/coreconnectiqmanual/" >
+			<settingConfig type="boolean"></settingConfig>
+		</setting>
+		
+		<setting propertyKey="@Properties.HRM_ID"
+			title="@Strings.HRM_ID_title" prompt="@Strings.HRM_ID_prompt"
+			helpUrl="https://corebodytemp.com/coreconnectiqmanual/">
+			<settingConfig type="numeric" readonly="false"
+				required="false" min="0" max="1048575" errorMessage="@Strings.ANT_ID_error_msg">
+			</settingConfig>
+		</setting>
+		
+	</settings>
+
+	<properties>
+		<property id="ANT_ID" 				type="number">0</property>
+		<property id="fitFileCompatability" type="boolean">true</property>
+		<property id="HRM_ID" 		 		type="number">0</property>
+	</properties>
+</resources>
